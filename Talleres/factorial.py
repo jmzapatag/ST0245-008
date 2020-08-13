@@ -1,4 +1,5 @@
 //este trabajo fue hecho por Salomon Velez y Juan Manuel Zapata//
+//https://docs.google.com/spreadsheets/d/1WabjvvrjNx6GGwfIrfXMaxCP7vTzfpdre7L-e8KHPa0/edit?usp=sharing//
 
 import time
 
