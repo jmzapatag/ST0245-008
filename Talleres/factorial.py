@@ -1,3 +1,5 @@
+//este trabajo fue hecho por Salomon Velez y Juan Manuel Zapata//
+
 import time
 
 def get_recursive_factorial(n):
